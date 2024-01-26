@@ -1,0 +1,322 @@
+question->Is	R" is the capital of Nicaragua and its largest city. nobody has written a description for Managua!"
+question->Is	A"https://en.wikipedia.org/wiki/Managua"
+question->Is	C"True"
+question->Is	E"https://en.wikipedia.org/wiki/Managua"
+question-hat	R" a 1980s American television series that ran for two seasons. hopefully the same can be said about this game, it's just as entertaining as it was then, and still is now!
+In 2013, Atari Games licensed the rights to create a new version of Pole Position, but only one machine has been seen. It is unknown if any other machines were made or not.
+This game has two cabinets. The first is a stand-up model and the second is an upright. The controls are identical in both versions, however the stand-up cabinet can't tilt left like it should when using steering wheels.
+The game features a variety of different cars to choose from with various powerups, but only one car is available at any one time as others may only be used by the player after completing several of specific driving skill challenges.
+Pole Position (Cabinet) Atari Games 1983"
+question-hat	A"yes"
+question-hat	C"True"
+question-hat	E"https://en.wikipedia.org/wiki/First (Lindsay Lohan song)"
+question-hat	E"https://en.wikipedia.org/wiki/One (Swedish House Mafia song)"
+question-hat	E"https://en.wikipedia.org/wiki/Two (1964 film)"
+question-hat	E"https://en.wikipedia.org/wiki/2013"
+question-hat	E"https://en.wikipedia.org/wiki/Major second"
+question-hat	E"https://en.wikipedia.org/wiki/Pole Position (board game)"
+question-hat	E"https://en.wikipedia.org/wiki/Brooklyn Nets"
+question-How	R" times and has always been the same. everyone knows what is going on, but no one wants to be held responsible. I would like to know if there are any other people who have this problem and can share with me how they solved it? thank you for your answer.
+i would not expect it to work as well as a real dishwasher but i am sure it would help cut down on the cleanup considerably!! dose she take vitamin/ suppliments??
+I have been using the Dyson hand dryers and I find that they work quite well. They are very quiet and efficient, although not as quiet as the commercial dryers found in restrooms of stores etc. They use very little energy compared to the traditional paper towel dispensers which waste a lot of energy.
+I would recommend you look at some other Dyson products because I find their stuff quite nice, well built and well priced.
+Dyson are making their range smaller these days so they may not have what your after for such small models like the one you have.
+The next one is their cheaper model which is a bit bigger in size, however I have been using it for over 2 years now on the office"
+question-How	A"https://en.wikipedia.org/wiki/Dyson"
+question-How	C"True"
+question-How	E"https://en.wikipedia.org/wiki/Dyson"
+question-Who	R": I'm not sure what you mean by "a large group of people." Are we talking about a small group of people? A large group of people?
+ surely, the number of people in this country who have ever seen an airplane is larger than the number of people who have ever heard of Sita Ram. But that doesn't make Sita Ram any less important to Hindus (although the latter would probably not know about him if they didn't study Vedic literatur in India.) I'm not sure how this relates to the topic at hand, though.
+Sorry if you were referring to some other post.
+I was talking about the fact that most people don't know what a Bhagavad Gita is...in Hindi or English.
+I've never heard of Sita Ram and I am a native Indian (Tamil) who has lived in India all his life and I speak 4 languages including Tamil, Hindi, Telugu and English.
+I have just googled on both terms - and you can find lots of hits for Bhagavad Gita but not so many for Sita Ram.
+I'll stick by that then and say that the"
+question-Who	A"https://en.wikipedia.org/wiki/English language in England"
+question-Who	C"True"
+question-Who	E"https://en.wikipedia.org/wiki/English language in England"
+question-Who	E"https://en.wikipedia.org/wiki/Bhagavad Gita (film)"
+question-Who	E"https://en.wikipedia.org/wiki/4: John Paul George Ringo"
+question-Who	E"https://en.wikipedia.org/wiki/Tamil diaspora"
+question-Who	E"https://en.wikipedia.org/wiki/India: A Wounded Civilization"
+question-Who	E"https://en.wikipedia.org/wiki/Plains Indians"
+question-Who	E"https://en.wikipedia.org/wiki/Bombay Hindi"
+question-hat	R" the world's leading website on car design with new car reviews, news and pictures. occasionally I see articles by this idiot that are so ridiculous they make me laugh out loud in front of people, because it's just too stupid to ignore. This time, it's about the BMW X3M - and yes, he's talking about the new 2019 version!
+"The X3 M is a good example of what happens when you take an already great car and try to make it even better. The result is something that looks like a cross between a hot hatchback and a high-performance SUV, but it's actually more than the sum of its parts. With BMW, all roads lead to Rome, so why not follow them?"
+It seems this idiot thinks we should be grateful for what he has already. Apparently cars from the past are not good enough and we need to wait until they have been improved by a company who makes us wait even longer before they get it right!
+This article is one of those pieces of automotive writing that leave you confused: "What was this guy thinking? How did he manage to write such nonsense?" It'"
+question-hat	A"yes"
+question-hat	C"True"
+question-hat	E"https://en.wikipedia.org/wiki/Ancient Rome"
+question-hat	E"https://en.wikipedia.org/wiki/2019"
+question-hat	E"https://en.wikipedia.org/wiki/H E Tancred Stakes"
+question-hat	R" it safe to use an expired sim?
+Does any other carrier offer a similar plan for $30/month?
+How do I know if my phone will work with SIM free 3?
+Can I buy the iPhone without signing up for service?
+What do I need to do to get started on the network?
+Do you have to sign up for service to activate your phone?
+How much does it cost to use a SIM card in a cellphone that's not from AT&T or T-Mobile?
+Why did they charge me $100 for an unlocked iPhone 6S Plus if it costs just as much in unbranded GSM devices like this one?
+Do you need an active plan with Verizon to activate their prepaid SIM card?
+How can I tell which network my phone is using when it's not connected to Wi-Fi or Bluetooth but does connect if plugged into a computer via USB cable for example, if my battery level has gone below 20% and then back up again after charging overnight (I know this sounds weird)?
+What happens if I don't have any minutes left on my account after they are purchased"
+question-hat	A"yes"
+question-hat	C"True"
+question-hat	E"https://en.wikipedia.org/wiki/Overnights (radio show)"
+question-hat	E"https://en.wikipedia.org/wiki/III (Maylene and the Sons of Disaster album)"
+question-hat	E"https://en.wikipedia.org/wiki/Space Interferometry Mission"
+question-hat	E"https://en.wikipedia.org/wiki/100 (Glee)"
+question-hat	E"https://en.wikipedia.org/wiki/-30-"
+question-hat	E"https://en.wikipedia.org/wiki/Garrison sergeant major"
+question-hat	E"https://en.wikipedia.org/wiki/Simón Bolívar University (Venezuela)"
+question-hat	E"https://en.wikipedia.org/wiki/iOS"
+question-hat	E"https://en.wikipedia.org/wiki/AT&T"
+question->In	R" you know to your audience. everybody loves a good story, and that’s what you are telling them.
+The most important thing is to tell the truth as best you can in terms of who you are and where you come from. It doesn’t matter if it isn’t the “best” or the “most interesting” story. The point is to be honest, not perfect.
+I think that it really does matter a lot. I don’t know how often writers who feel so ashamed of their pasts will ever write about them in any way that would help other people with similar struggles. I don’t know if they can even imagine doing such a thing. But I do know that when you tell the truth about your experiences, it helps others to see themselves reflected back at them and feel seen in a very new light.
+I think that it does matter, because its important for people who have struggled with addiction or mental illness to be able to share their stories without shame. It’s also important for those who have experienced abuse, rape, trauma, or any other form of violence to be able to tell their story without shame and not feel like they are being judged by others.
+"
+question->In	A"everybody loves a good story"
+question->In	C"True"
+question-hat	R" there any way to get the same effect with less power, such as with 12v or even 6v?
+ nobody wants to buy my kcg because I had put them all inside my dlz-5000 and now they are useless.
+I have never been in trouble, except with 3000watts of power.
+I am not sure if you can get the same effect with less power. The only way to find out is to try it. I used my dlz-5000 and I think it was fine. But if you've put the CG together for your DLZ, then it may be hard to separate them again.
+I have a friend that does custom 24v 120v conversion. I can get him to take another look at his unit to see if he can help. I think we had a few of these conversions done before and they worked fine."
+question-hat	A"yes"
+question-hat	C"True"
+question-Who	R" the town
+Carefree in Paris, France.
+I've been a little bit busy lately. I'm happy to share what that is with you now.
+I've been painting! I have a few pieces on display at the Painted Town Gallery in Paris, Texas, along with about 50 other artists. The gallery is open Tuesday through Saturday until March. They had a soft opening last weekend and are planning an official opening event sometime in early January.
+The paintings are for sale and I'm very proud to have two of them there.
+I've been busy with the holidays, too. We had our annual open house yesterday for Christmas cards that we send out every year. It was a fun time catching up with friends from church and school. A new baby (almost three months old) joined us this year which was an extra bonus.
+My brother's family has come in town for the holidays, too. They are at Disneyworld with a huge contingent of other family members who are all there together for the first time ever. I'm so glad to be home!
+We're also looking forward to a trip to Houston this"
+question-Who	A"painted town gallery"
+question-Who	C"True"
+question-Who	E"https://en.wikipedia.org/wiki/France 2"
+question-Who	E"https://en.wikipedia.org/wiki/First (Lindsay Lohan song)"
+question-Who	E"https://en.wikipedia.org/wiki/Texas (Chris Rea song)"
+question-Who	E"https://en.wikipedia.org/wiki/March on Washington for Jobs and Freedom"
+question-Who	E"https://en.wikipedia.org/wiki/Annual"
+question-Who	E"https://en.wikipedia.org/wiki/Two (1964 film)"
+question-Who	E"https://en.wikipedia.org/wiki/Carefree"
+question-Who	E"https://en.wikipedia.org/wiki/Saturday (Fall Out Boy song)"
+question-Who	E"https://en.wikipedia.org/wiki/Paris"
+question-Who	E"https://en.wikipedia.org/wiki/Houston (Means I'm One Day Closer to You)"
+question-Who	E"https://en.wikipedia.org/wiki/Gayle Tuesday"
+question-Who	E"https://en.wikipedia.org/wiki/Yesterday (song)"
+question-Who	E"https://en.wikipedia.org/wiki/Christmas (surname)"
+question-hat	R" it time for another war?
+Yes, I know that the US has been fighting two wars on at least 3 fronts in the last 7 years and some are even arguing that we should start a new one. But I think that maybe the next few weeks could see another round of action if Israel makes good on its threats to attack Iranian nuclear facilities.
+As a side note, it seems like this is a recurring theme in history. The US has been involved in wars with at least 3 countries since WWII: Korea, Vietnam and Iraq (technically). There were others too, but I'm just saying that we have had our hands full for the last 60 years or so.
+Now there is talk of a new war on Iran. The thing that strikes me is how history can seem like something straight from a movie. I remember watching a film in school about WWII (incredible video actually, which makes this rant less credible) and it was about the D-Day invasion.
+This part really sticks with me: "There's one more thing you should know. We're going to need your help again." I remember thinking that was a strange line"
+question-hat	A"yes"
+question-hat	C"True"
+question-hat	E"https://en.wikipedia.org/wiki/Iranian architecture"
+question-hat	E"https://en.wikipedia.org/wiki/One (Swedish House Mafia song)"
+question-hat	E"https://en.wikipedia.org/wiki/Call of Duty: WWII"
+question-hat	E"https://en.wikipedia.org/wiki/Israelites"
+question-hat	E"https://en.wikipedia.org/wiki/Upper Mesopotamia"
+question-hat	E"https://en.wikipedia.org/wiki/Two (1964 film)"
+question-hat	E"https://en.wikipedia.org/wiki/"
+question-hat	E"https://en.wikipedia.org/wiki/Korea"
+question-hat	E"https://en.wikipedia.org/wiki/Iran Kharab"
+question-hat	E"https://en.wikipedia.org/wiki/VietNam (band)"
+question->In	R" I saw was a lot of people who were very upset and angry, but they weren’t going to go away. hopefully some sort of conversation could have come out of that.”
+the next day, the city council took up the matter in executive session. “we had a chance for folks on the southwest side – you may want to call it the ‘black community’ – to express their concerns,” said council member john mcavoy. “i think we got some good feedback from that, which gave us insight.”
+when they reconvened in public session, the council voted unanimously on a new version of a compromise – or concession – with the community group. it was a plan to create a task force that would study the issue and make recommendations for how to improve police-community relations.
+the city council also approved an amendment that called for more outreach in communities around a jail-alternatives facility the council was about to approve, including meetings with residents who had been opposed to it. “it’s important we have a dialogue,” said mcavoy.
+that meeting happened at a community center in west philadelphia on april 21 "
+question->In	A"a new version of a compromise – or concession – with the community group. it was a plan to create a task force that would study the issue and make recommendations for how to improve police - community relations"
+question->In	C"True"
+question->Is	R" first time I saw a picture of you,
+My heart stopped beating.
+And for one whole second
+I knew nothing but this feeling,
+as the clouds shifted away,
+and I was able to see again
+for one fleeting moment the vast space."
+question->Is	A"this feeling"
+question->Is	C"True"
+question->Is	E"https://en.wikipedia.org/wiki/One (Swedish House Mafia song)"
+question->Is	E"https://en.wikipedia.org/wiki/First (Lindsay Lohan song)"
+question->Is	E"https://en.wikipedia.org/wiki/Major second"
+question-Are	R" love puddles and slush. nobody does.
+this is the most amazing thing i've ever seen."
+question-Are	A"love puddles and slush"
+question-Are	C"True"
+question-Can	R", and the rest of creation.
+"Holy and Righteous God, you have created us in your image. You have given us dominion over all the earth, that we might care for it and enjoy its richness to make ourselves great with knowledge, understanding and love. Forgive our foolish pride. Teach us to use your gifts wisely, so that the beauty of your creation may continue forever."
+I hope you have a good weekend. I'm off to go work in my garden for a few hours."
+question-Can	A"holy and righteous god"
+question-Can	C"True"
+question->Is	R" for Speakers of Other Languages (ESOL) is a program that provides instruction in reading, writing, listening and speaking to non-native speakers in need of this extra language support. everyone is welcome to come along!
+Our classes are free and open to all adults who live or work in the North Hertfordshire District area. We have a range of courses available for people at different levels of English ability, from complete beginners to advanced speakers. You can join our classes at any time during the year.
+If you would like more information about our ESOL course, please contact:
+Carole Eason-Rolfe (Lead Adult Learning Tutor)
+Email: carole.easron-rolfe@north-herts.gov.uk"
+question->Is	A"carole eason - rolfe"
+question->Is	C"True"
+question->Is	E"https://en.wikipedia.org/wiki/English language in England"
+question->Do	R" about the crab!
+ obviously I like seafood.
+I'm not a fan of the taste, but when they come with cheese and sour cream, it's a whole different story."
+question->Do	A"crab"
+question->Do	C"True"
+question-hat	R" currently running at the Trafalgar Studios in London. hopefully, it's getting ready for an opening night in NYC and I hope to see it there soon!
+The play was written by Simon Stephens, a brilliant playwright whom i just learned had the good fortune of being mentored by David Hare! that explains his excellent writing skills. this is a must-see if you can make it to London.
+here's a link to the Trafalgar Studios website for more info and tickets: http://www.trafalgarstudios.com/shows/the-curious-incident-of-the-dog-in-the-night-time/"
+question-hat	A"yes"
+question-hat	C"True"
+question-hat	E"https://en.wikipedia.org/wiki/NYC (Prince EP)"
+question-hat	E"https://en.wikipedia.org/wiki/London"
+question-hat	E"https://en.wikipedia.org/wiki/David Hare Block"
+question-ere	R" you know: this book can get me an A in my English class?
+ everybody knows that the best way to learn is by reading. but what if i told you there was a way to read for pleasure and still get an A on your next essay? it's true!
+i'm not kidding, guys. i am taking AP english language and composition this year, and since september of 2014, i have been reading books that are considered "literature" (aka classics). i can safely say i don't regret it at all.
+the best part is, i actually enjoy these books!
+i mean, sure, some of them were a little slow and boring...but what can you do? we read to learn. so i read.
+and i'm going to share with you my top 5 favorite books that i have read this year for english class. they are all worth reading!
+1. the scarlet letter by nathaniel hawthorne - i honestly enjoyed every page of this book. it was a little slow at times, but it's so good. the story is beautiful and heart-wrenching...it will make you cry"
+question-ere	A"yes"
+question-ere	C"True"
+question-ere	E"https://en.wikipedia.org/wiki/English language in England"
+question-ere	E"https://en.wikipedia.org/wiki/Automotive Products"
+question-ere	E"https://en.wikipedia.org/wiki/Five (Five album)"
+question-ere	E"https://en.wikipedia.org/wiki/One (Swedish House Mafia song)"
+question-AB>	R" the new Samsung Galaxy Tab A (2019) any good?
+ Hinweis: Dieser Artikel ist nur auf Englisch verfügbar.
+The Samsung Galaxy Tab A (2019) is a mid-range tablet that’s been around for quite some time now, but it still holds its own against newer devices such as the Samsung Galaxy Tab S4 and Huawei MediaPad M5 Lite 8.0.
+The Galaxy Tab A (2019) isn’t a high-end tablet by any means, but it does have some advantages over the more expensive models like better battery life and performance than other entry level slates on the market right now. However there are some areas where Samsung could improve with future iterations of this model.
+In our full Galaxy Tab A 10-inch (2018) review, we take a closer look at all aspects of it - here are four areas to consider before buying one for yourself or someone else:
+The Samsung Galaxy Tab A is an excellent mid-range tablet that offers great value for money. It has a good screen and camera quality, but there are some issues with the"
+question-AB>	A"yes"
+question-AB>	C"True"
+question-AB>	E"https://en.wikipedia.org/wiki/4: John Paul George Ringo"
+question-AB>	E"https://en.wikipedia.org/wiki/2019"
+question-AB>	E"https://en.wikipedia.org/wiki/Samsung Town"
+question->Do	R", the tiger, and the bear. everyone is welcome at the zoo!
+the zoo is a place where animals live in their natural habitat. there are many different kinds of animals that live in zoos around the world. these animals are very interesting because they live all over the world.
+The zoo is a place where people can see animals from all over the world. The zoo has many different types of animals, including monkeys and snakes. Visitors to the zoo can learn about wildlife protection at several levels: by visiting exhibits that showcase endangered species and extinction stories as well as supporting organizations that help save threatened animals through donations or volunteering opportunities; by educating themselves on how they can make a difference with conservation projects within their communities or internationally (through organizations like World Wildlife Fund).
+The zoo is a place to have fun! This could mean looking at the animals, feeding them and petting them. The zoo also has many different kinds of exhibits that show what it’s like when nature was real or fantastical. You can learn about how we used to live without technology and how things were before people started building cities (eagles didn't need traffic lights).
+"
+question->Do	A"the tiger, and the bear"
+question->Do	C"True"
+question-Are	R" are very smart birds and the males do mate with the females, but it is not the norm for penguin species. hopefully that helps answer your question.
+Why don't male penguins have sex?
+Male and female mates stay together forever in the wild. The male and female penguins are monogamous and will spend their entire lives with each other. They do not cheat on one another or look for other partners, but they are still faithful to each other.
+Why don't male penguins have sex?
+Male and female mates stay together forever in the wild. The male and female penguins are monogamous and will spend their entire lives with each other. They do not cheat on one another or look for other partners, but they are still faithful to each other..
+Do penguin males have sex?
+Yes male and females do have sex together in the wild.
+Why don't male penguins have sex like human males?
+They don't need to. They live in pairs that mate for life and don't look for other partners.
+How long does a male penguin wait for female to come back after she has left?"
+question-Are	A"forever"
+question-Are	C"True"
+question-ave	R" in a similar manner as dogs and horses, so why not monkeys?
+ everybody has the right to be treated with dignity.
+that animals have feelings like we do.
+I am pro eating vegetables that are grown on farms.
+because I know where my food is coming from.
+ I want people to make less use of animals as well as making sure they don't hurt them.
+that they can lead an enlightened, happy life.
+I think that animals should be treated like humans because we are all the same creature we both are carbon. We also share many things with other creatures on this planet such as a nervous system and reproductive systems. I believe that if you treat animals well they will take care of your home by keeping it clean and not destroying anything in your house or building just don’t have all the cats running around because then they might start fighting over territory and they might hurt each other, and there could be some bloodshed.
+I think that animals should be treated like people is very easy, every species from tiny ones as snail to a whale or even elephant, they all have feelings and emotions just like us humans do. They also feel pain"
+question-ave	A""
+question-ave	C"True"
+question-Did	R": a life in words and music
+
+An English country house estate at Sutton Courtenay, Oxfordshire provided the perfect venue for celebrating the 400th anniversary of William Shakespeare's death with music from a century later.
+The first event took place on Saturday 23 April 1966 when composer Lennox Berkeley conducted a performance of his own work, The Song of Summer, at Ravenwell Cottage House in the village.
+Berkeley had been commissioned by the Arts Council to write an orchestral work based on Shakespeare's poetry. In a BBC Radio interview, he said: "I decided that I would try and get a theme out of some of his poems, with his characters doing certain things". Berkeley quoted sonnets by the Bard such as Sonnet 78 'Lord, how unblest my house is': "Let envy crack their cheeks. Their lips are sealed" and Sonnet 130 'My mistress' eyes'. "His eyes in heaven shall see".
+The composer said he had been inspired by the countryside near to where the BBC radio concerts would take place and he chose"
+question-Did	A"william shakespeare"
+question-Did	C"True"
+question-Did	E"https://en.wikipedia.org/wiki/English language in England"
+question-Did	E"https://en.wikipedia.org/wiki/BBC World Service"
+question-Did	E"https://en.wikipedia.org/wiki/First (Lindsay Lohan song)"
+question-Did	E"https://en.wikipedia.org/wiki/Berkeley College (Yale University)"
+question-Did	E"https://en.wikipedia.org/wiki/400th anniversary of the Authorized King James Version"
+question-Did	E"https://en.wikipedia.org/wiki/Bard"
+question-Did	E"https://en.wikipedia.org/wiki/Kin Sang stop"
+question-Did	E"https://en.wikipedia.org/wiki/Shakespeare Line"
+question-ere	R" not seem to have the slightest interest in being one of us,
+ ultimately aided our escape from the clutches of the law by granting
+ a certificate declaring that we were all insane. The result was that we
+ left America on 29 June after over seventy people gave affidavits saying they knew we had not done anything wrong. We left for England, where I was to live until I married, in November 1935, the daughter of a wealthy American family who had been living in London as well and so wanted a passport for me to join them. When that ran out she then came and stayed with my father (as an act of self-preservation). We lived on her money until I got married, when we were able to live on his.
+In the meantime I had been working in the film industry as a translator—but what of the other members of the family? My mother was not so fortunate: she had to work hard for a living and had no time to think about anything else. She was an excellent cook, so her restaurant in Madrid made a lot of money; but she was also a good businesswoman and managed it well. After some years we"
+question-ere	A"yes"
+question-ere	C"True"
+question-ere	E"https://en.wikipedia.org/wiki/One (Swedish House Mafia song)"
+question-ere	E"https://en.wikipedia.org/wiki/United Kingdom"
+question-ere	E"https://en.wikipedia.org/wiki/America – The EP"
+question-ere	E"https://en.wikipedia.org/wiki/London"
+question-ere	E"https://en.wikipedia.org/wiki/Brooklyn Nets"
+question-ere	E"https://en.wikipedia.org/wiki/Patricia Madrid"
+question-hat	R" a leading manufacturer of innovative solutions for the detection, monitoring and protection of electronic equipment in industrial environments. everybody knows that electromagnetic compatibility (EMC) is an important issue in modern production facilities.
+is a leading manufacturer of innovative solutions for the detection, monitoring and protection of electronic equipment in industrial environments. everybody knows that electromagnetic compatibility (EMC) is an important issue in modern production facilities. The EMC-compliant use of measuring systems for safety, process control and quality assurance poses enormous demands on all technical components, such as wiring, switchgear or the measuring devices themselves.
+For many years, SICK has been successfully offering customized product and solutions. Its competent engineers provide assistance to its customers worldwide – both directly on site at the production facility or remotely online - regarding challenging EMC issues.
+SICK has already demonstrated a long tradition of excellence in providing customer-oriented measuring, automation and software technology solutions. In addition to this, SICK has always taken great care with its own development activities in order to avoid negative interferences and harmonics between electrical and electronic components.
+The company's mod"
+question-hat	A"yes"
+question-hat	C"True"
+question-hat	E"https://en.wikipedia.org/wiki/Environmental Modeling Center"
+question-How	R" times and he’s got the talent to go along with it. surely a great acquisition
+We haven’t done that in a long time, have we? And for someone of his caliber…I don’t know what our options are, but I like the way we did it!
+I think this is a good move. He has been playing well and will help us get better. We need to be more consistent on offense but will never catch Philly with that kind of money and talent."
+question-How	A"he has been playing well and will help us get better. we need to be more consistent on offense but will never catch philly"
+question-How	C"True"
+question-The	R"’s AWS division continues to push further outwards its sphere of cloud computing, as the company announces the release of 49 new products and services. surely, this is a big step for the company, which has been on a steady rise in terms of market share over the past few years.
+The company’s latest move comes after it announced that it was moving its entire AWS division to a new location in Virginia. The move will see the company expanding its presence in the region and bringing more jobs with it as well, with Amazon saying that they are looking for people who have experience working on cloud computing projects and want to be part of a cutting edge tech giant.
+Amazon Web Services (AWS) has announced 49 new products and services today at re:Invent, the company’s annual customer conference in Las Vegas, NV. Including Amazon EC2 M1 instances with up to 30% lower costs compared to the standard X8e instances for CPU-bound workloads and enabling a wider set of customers to use AWS for their most demanding applications.
+Amazon Web Services (AWS) is adding a slew of new features, services and tools, such as MLS"
+question-The	A"amazon web services"
+question-The	C"True"
+question-The	E"https://en.wikipedia.org/wiki/Today (Thames Television series)"
+question-The	E"https://en.wikipedia.org/wiki/Vegas"
+question-The	E"https://en.wikipedia.org/wiki/Computer Professionals' Union"
+question-The	E"https://en.wikipedia.org/wiki/Nissan NV (North America)"
+question-The	E"https://en.wikipedia.org/wiki/Annual"
+question-The	E"https://en.wikipedia.org/wiki/50 Virginia"
+question-The	E"https://en.wikipedia.org/wiki/Volvo Amazon"
+question-The	E"https://en.wikipedia.org/wiki/Maritime Launch Services"
+question-The	E"https://en.wikipedia.org/wiki/M-1 Rail Line"
+question-The	E"https://en.wikipedia.org/wiki/one of the years 49 BC"
+question-The	E"https://en.wikipedia.org/wiki/Aircraft Warning Service"
+question-Are	R" on the line, or is it just another pile of poo?
+ hopefully he hasn’t spent money with anyone else.
+I have a friend whose uncle owned Koalas for quite some time and then sold it to a guy who had a couple of other companies that were also in trouble. I don’t know if the company has gone bankrupt but this guy did. The reason I say that is because I just heard about him on the news tonight, being sentenced for his crime which was related to fraud and embezzlement.
+I’m hoping there aren’t a bunch of customers waiting on invoices….."
+question-Are	A"koalas"
+question-Are	C"True"
+question-Are	E"https://en.wikipedia.org/wiki/Tonight (Best You Ever Had)"
+question-ere	R" you know that the word “hobbit” is derived from ‘bait” because their mouths are so small?
+ surely you know how many calories there are in a single bite of an apple.
+ did you know that the number of apples on the ground in front of your house has been increasing since last year?
+ did you know that it is not uncommon for people to eat applesauce at lunch time because it reminds them how healthy apples can be.
+did you know that 6th street west by downtown is where the apple store was in 1927, before the mall and even the hotel.?
+did you know that in order to avoid eating too many apples a day, one should only eat half an apple every hour?
+ did you know that it’s been scientifically proven that eating apples can help prevent cancer?
+ did you know that the word “apple” is derived from the latin word for “apple?”.?"
+question-ere	A"yes"
+question-ere	C"True"
+question-ere	E"https://en.wikipedia.org/wiki/Latins (Middle Ages)"
+question-ere	E"https://en.wikipedia.org/wiki/1927 (album)"
+question-ere	E"https://en.wikipedia.org/wiki/half"
+question->Is	R" Vernon, WA -- (ReleaseWire) -- 07/19/2018 --The Sage Group is pleased to announce that a senior team member will be relocating to our Vancouver, British Columbia office. everybodyeldercare.com
+"We are excited to have a new team member join us in Vancouver," said John H. Bates, President of The Sage Group, LLC. "Andre and I were close when he lived and worked at my office, so it is great to be able to bring him back into the fold."
+"I am excited to be returning to work with friends old and new and can't wait to get started," said Andre Cox, Vice President of Business Development for The Sage Group. "This opportunity is an excellent way to expand my horizons while staying connected to our company mission. I'm really looking forward to helping us achieve even greater success."
+Andre has over 12 years experience working with senior care providers and their families. His primary role at The Sage Group will be business development, which is the process of creating opportunities that grow The Sage Group client base while improving market awareness"
+question->Is	A"https://en.wikipedia.org/wiki/Vancouver"
+question->Is	C"True"
+question->Is	E"https://en.wikipedia.org/wiki/Spirit of British Columbia"
+question->Is	E"https://en.wikipedia.org/wiki/Vancouver"
+question->Is	E"https://en.wikipedia.org/wiki/Vernon Systems"
+question->Is	E"https://en.wikipedia.org/wiki/Wa Land"
+question->Is	E"https://en.wikipedia.org/wiki/LHD Landing Craft"
+question->Is	E"https://en.wikipedia.org/wiki/Andre (film)"
