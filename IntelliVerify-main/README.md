@@ -19,7 +19,6 @@ Go into the terminal of the docker, then "$cd ~/IntelliVerify/".
 4. Execute main.py to see the results.
  Open the docker's terminal, then "$cd ~/IntelliVerify/"
  Then execute by "$python3 main.py"
-
  The result of each input will be printed in the terminal.
  Besides, after the program is done, all the information will be written into the "example_output.txt" file.
 
