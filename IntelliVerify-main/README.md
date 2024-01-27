@@ -5,11 +5,23 @@
 1. Transmit the source code to the docker image
  Use the command "docker cp /IntelliBerify $(ImageID):/app/"
 
-3. Install the requirements.
+2. Install the requirements.
+Go into the terminal of the docker, then "$cd ~/IntelliVerify/".
+ Install pipreqs(if haven't), command "$pip install pipreqs",
+ Then "$pipreqs . --encoding=utf-8"
+ Then "$pip install -r requirements.txt"
+ After these, the requirements are done.
 
+3. Download the required pre-trained models.
+   From here (PUT YOUR GOOGLE DRIVE LINK HERE) you can download the "model_squad.pt" file which is used for answer extraction module.
+   Then trasmit it into the folder of IntelliVerify, command: "docker cp /model_squad.pt $(ImageID):~/IntelliBerify".
+   
+4. Execute main.py to see the results.
+ Open the docker's terminal, then "$cd ~/IntelliVerify/"
+ Then execute by "$python3 main.py"
 
-5. Download the required pre-trained models.
+ The result of each input will be printed in the terminal.
+ Besides, after the program is done, all the information will be written into the "example_output.txt" file.
 
-6. Execute main.py to see the results.
-
-7. If you want to change a test set, .....
+5. If you want to change a test set, .....
+ Just replace the "example_input.txt" file to the one you hope to use for test. The format should be consist with the original example_input file (we follows the format of assignment).
