@@ -19,7 +19,7 @@ def process_input(file_path):
             # content = file.readlines()
             # lines = content.split('\n')
             lines = file.readlines()
-            print(lines)
+            #print(lines)
             for line in lines:
                 if line == [] or line == ['\n']:
                     continue
@@ -27,9 +27,9 @@ def process_input(file_path):
                 if questions[1][0:8] == "Question":
                     questions[1] = questions[1][8:-7]
 
-                print(questions)
+                #print(questions)
                 question_id = questions[0][-3:]
-                print(question_id)
+                #print(question_id)
                 questions_list.append((question_id, questions[1]))
     except FileNotFoundError:
         print(f"File not found: {file_path}")
