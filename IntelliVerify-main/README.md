@@ -1,31 +1,33 @@
 # IntelliVerify
- Implement a program that improve the performance of large language models (LLaMA). To this end, your solution is asked to 1) parse the output of a language model and to extract a clean answer and 2) check, with the aid of existing knowledge bases, which are available on the web, whether the answer is correct or not
+This is a pratical assignment for the course Web Data Processing Systems.
+
+This program is designed to improve the performance of large language models such as LLaMA. Our main implementations include: 
+
+1) Given certain types of questions, parse the output of LLaMA and extract a clean answer;
+
+2) With the aid of Wikipedia, link the answer to an entity and decide the answer's correctness.
 
 ## Setup
-1. Transmit the source code to the docker image
- Use the command `docker cp /IntelliVerify $(ImageID):/app/`
+To run this program locally, please follow the next procedure:
+
+1. Transmit the source code to the docker image.
+- Use the command `docker cp /IntelliVerify $(ImageID):/app/`
 
 2. Install the requirements.
-Go into the terminal of the docker, then `$cd ~/IntelliVerify/`.
- Install pipreqs(if haven't), command `$pip install pipreqs`,
- Then `$pipreqs . --encoding=utf-8`
- Then `$pip install -r requirements.txt`
- After these, the requirements are done.
+  - Go into the terminal of the docker, then `$cd ~/IntelliVerify/`.
+  - Install pipreqs via command `$pip install pipreqs`, then `$pipreqs . --encoding=utf-8`.
+  - Then `$pip install -r requirements.txt`.
 
-3. Download the required pre-trained models.
-   From here (https://drive.google.com/file/d/1Az-K97XyECQ7Drvf_6MdCOVxBv9Shi2B/view?usp=drive_link) you can download the "model_squad.pt" file which is used for answer extraction module.
-   Then trasmit it into the folder of IntelliVerify, command: `docker cp /model_squad.pt $(ImageID):~/IntelliBerify`.
+
+3. Download the pre-trained model for answer extracting.
+   From [here](https://drive.google.com/file/d/1Az-K97XyECQ7Drvf_6MdCOVxBv9Shi2B/view?usp=drive_link) you can download the "model_squad.pt" file which is used for the answer extraction module.
+   Then, copy it into the folder of IntelliVerify: `docker cp /model_squad.pt $(ImageID):~/IntelliVerify`.
    
-4. Execute main.py to see the results.
- Open the docker's terminal, then `$cd ~/IntelliVerify/`
- Then execute by `$python3 main.py`
- The result of each input will be printed in the terminal.
- Besides, after the program is done, all the information will be written into the "example_output.txt" file.
+4. Execute the program to see the results.
+- Open the docker's terminal, then `$cd ~/IntelliVerify/`,
+ then execute `$python3 main.py`.
+- Type in your questions to `input_example.txt`. If you do not have specific questions to ask, you can also just use the default questions in this file.
+ - After the program is executed, the result of each input will be printed in the terminal. The answers will be written into the `example_output.txt` file.
 
-5. If you want to change a test set, .....
- Just replace the "example_input.txt" file to the one you hope to use for test. The format should be consist with the original example_input file (we follows the format of assignment).
 
-## Docker Image
-To acquire our image, please type in: `docker pull <name>`
 
-To run the image, please type in: `docker run -it <name>`
