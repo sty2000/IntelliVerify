@@ -1,0 +1,30 @@
+question-001<TAB>Is Managua the capital of Nicaragua?<newline>
+question-002<TAB>What is the capital city of France?<newline>
+question-003<TAB>How many continents are there on Earth?<newline>
+question-004<TAB>Who wrote the play 'Romeo and Juliet'<newline>
+question-005<TAB>What is the currency of Japan?<newline>
+question-006<TAB>What is the largest mammal in the world?<newline>
+question-007<TAB>In what year did the Titanic sink?<newline>
+question-008<TAB>What is the chemical symbol for gold?<newline>
+question-009<TAB>Who painted the Mona Lisa?<newline>
+question-010<TAB>What is the capital city of Australia?<newline>
+question-011<TAB>In what year did the United States declare its independence?<newline>
+question-012<TAB>Is the Great Wall of China visible from space?<newline>
+question-013<TAB>Are penguins found in the Arctic?<newline>
+question-014<TAB>Can humans breathe underwater using scuba gear?<newline>
+question-015<TAB>Is English the most widely spoken language in the world?<newline>
+question-016<TAB>Do all continents have deserts?<newline>
+question-017<TAB>What is the capital of Japan?<newline>
+question-018<TAB>Where did the Olympic Games originate?<newline>
+question-019<TAB> Is the Eiffel Tower located in London?<newline>
+question-020<TAB>Do elephants have long memories?<newline>
+question-021<TAB>Are penguins able to fly?<newline>
+question-022<TAB>Have humans ever landed on Mars?<newline>
+question-023<TAB>Did Shakespeare write "Romeo and Juliet"?<newline>
+question-024<TAB>Where did the Renaissance begin?<newline>
+question-025<TAB>What is the speed of light in a vacuum?<newline>
+question-026<TAB>How many planets are there in our solar system?<newline>
+question-027<TAB>The Amazon River the longest river in the world, yes or no?<newline>
+question-028<TAB>Are koalas bears?<newline>
+question-029<TAB>Where did the Industrial Revolution begin?<newline>
+question-030<TAB>Is Mount Everest the tallest mountain on Earth?<newline>
