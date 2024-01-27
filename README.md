@@ -10,7 +10,10 @@ This program is designed to improve the performance of large language models suc
 ## Setup
 To run this program locally, please follow the next procedure:
 
-1. Transmit the source code to the docker image.
+0. Download the initial docker image:
+- `docker pull karmaresearch/wdps2`
+
+2. Transmit the source code to the docker image.
 - Use the command `docker cp /IntelliVerify $(ImageID):/app/`
 
 2. Install the requirements.
