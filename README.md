@@ -29,9 +29,7 @@ To run this program locally, please follow the next procedure:
 
 4. Download the pre-trained model for answer extracting.
    From [here](https://drive.google.com/file/d/1Az-K97XyECQ7Drvf_6MdCOVxBv9Shi2B/view?usp=drive_link) you can download the "model_squad.pt" file which is used for the answer extraction module.
-   Then, copy it into the folder of IntelliVerify: 
-
-​		`docker cp /model_squad.pt $(ContainerID):~/IntelliVerify-main`.
+   Then, copy it into the folder of IntelliVerify: `docker cp /model_squad.pt $(ContainerID):~/IntelliVerify-main`.
 
 5. Execute the program to see the results.
 
