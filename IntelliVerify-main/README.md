@@ -3,11 +3,13 @@
 
 ## Setup
 1. Transmit the source code to the docker image
-  Log in https://platform.openai.com/api-keys to create a API screct key and add the key to system environmental variable.
-2. Install the requirements.
+ Use the command "docker cp /IntelliBerify $(ImageID):/app/"
 
-3. Download the required pre-trained models.
+3. Install the requirements.
 
-4. Execute main.py to see the results.
 
-5. If you want to change a test set, .....
+5. Download the required pre-trained models.
+
+6. Execute main.py to see the results.
+
+7. If you want to change a test set, .....
