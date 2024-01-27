@@ -31,7 +31,7 @@ To run this program locally, please follow the next procedure:
   - From [here](https://drive.google.com/file/d/1Az-K97XyECQ7Drvf_6MdCOVxBv9Shi2B/view?usp=drive_link) you can download the "model_squad.pt" file which is used for the answer extraction module.
   - copy it into the folder of IntelliVerify: `docker cp /model_squad.pt $(ContainerID):~/IntelliVerify-main`.
 
-6. Execute the program to see the results.
+5. Execute the program to see the results.
 
 - Type in your questions to `input_example.txt`. If you do not have specific questions to ask, you can also just use the default questions in this file. 
 - Open the docker's terminal, then `$cd ~/IntelliVerify-main/`,then execute `$python3 main.py`.
