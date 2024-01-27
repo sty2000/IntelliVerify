@@ -54,4 +54,4 @@ To run this program locally, please follow the next procedure:
 
 - If appears error: `OSError: [E050] Can't find model 'en_core_web_sm'.`, then input `python -m spacy download en_core_web_sm`.
 - If there are problems with file permissions, use `sudo chmod` to adjust the permissions.
-- If any package fails to automatically download, please install manually using `pip install`. We know that can be tiresome, sorry :(.
+- If any other package fails to automatically download, please install manually using `pip install`. We know that can be tiresome, sorry :(.
