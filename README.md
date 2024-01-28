@@ -1,4 +1,4 @@
-# IntelliVerify Introduction
+# IntelliVerify
 This is a pratical assignment for the course Web Data Processing Systems named IntelliVerify.
 
 This program is designed to improve the performance of large language models such as LLaMA. Our main implementations include: 
@@ -36,7 +36,7 @@ To run this program locally, please follow the next procedure:
 5. Execute the program to see the results.
 
    - Type in your questions to `example_input.txt`. If you do not have specific questions to ask, you can also just use the default questions in this file. 
-   - Open the docker's terminal, then `$cd ~/IntelliVerify/`,then execute `$python3 main.py`.
+   - Open the docker's terminal, then `$cd ~/IntelliVerify/`, then execute `$python3 main.py`.
    - After the program is executed, the result of each input will be printed in the terminal. The answers will be written into the `example_output.txt` file.
 ## Setup using existing image
    - Please kindly log in to the Google Drive path and download `newimage.tar`.
