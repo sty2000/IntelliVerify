@@ -2,6 +2,7 @@ from access_llm import llm_answer
 from extract_answer import answer_extract
 from ner import entities_extract
 import Similarity as fc
+from extract_answer import classify_question
 
 FILE_PATH = "./input_example.txt"
 
